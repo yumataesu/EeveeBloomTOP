@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\EeveeBloomTOP.cpp" />
+    <ClCompile Include="libs\gl\glew.c">
+      <Filter>Glew</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\gl\glewinfo.c">
+      <Filter>Glew</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\uma\Program.cpp">
+      <Filter>Gl</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Parameters.cpp">
+      <Filter>TouchDesigner</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\uma\FrameBuffer.cpp">
+      <Filter>Gl</Filter>
+    </ClCompile>
+    <ClCompile Include="libs\uma\Quad.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\EeveeBloomTOP.h" />
+    <ClInclude Include="libs\gl\glew.h">
+      <Filter>Glew</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\gl\wglew.h">
+      <Filter>Glew</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\uma\Program.h">
+      <Filter>Gl</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\touchdesigner\CPlusPlus_Common.h">
+      <Filter>TouchDesigner</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\touchdesigner\GL_Extensions.h">
+      <Filter>TouchDesigner</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\touchdesigner\TOP_CPlusPlusBase.h">
+      <Filter>TouchDesigner</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Parameters.h">
+      <Filter>TouchDesigner</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\uma\FrameBuffer.h">
+      <Filter>Gl</Filter>
+    </ClInclude>
+    <ClInclude Include="libs\uma\inc.h">
+      <Filter>Gl</Filter>
+    </ClInclude>
+    <ClInclude Include="src\shader\Bloom.h" />
+    <ClInclude Include="libs\uma\Quad.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Glew">
+      <UniqueIdentifier>{966d8793-55e0-4d92-87f1-4da83b6adeda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Gl">
+      <UniqueIdentifier>{d66747a9-fdf4-48a9-8ebd-54bac38b6dba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TouchDesigner">
+      <UniqueIdentifier>{351e8de4-d78b-48e8-a17d-827ec656c99d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+.vs/
+*.exp
+*.lib
+*.log
+*.obj
+*.tlog
+*.recipe
+*.pdb
+*.txt
+*.iobj
+*.ipdb
