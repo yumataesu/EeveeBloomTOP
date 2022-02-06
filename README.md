@@ -1,7 +1,7 @@
 # EeveeBloomTOP
 **This is an experimental. If you use it a onsite, please take care.**
 
-**Bloom implementation is simple, so I'm also considering developing a .tox version of this.**
+**And I developed a tox version. You can download from a release page.**
 
 <img src="https://github.com/yumataesu/EeveeBloomTOP/blob/main/readme/cap.gif" width="100%">
 
