@@ -1,7 +1,5 @@
 # EeveeBloomTOP
 
-**I developed a tox version. You can download from a release page.**
-
 <img src="https://github.com/yumataesu/EeveeBloomTOP/blob/main/readme/cap.gif" width="100%">
 
 ## Feature
@@ -12,5 +10,6 @@
 
 ## Memo
 1. You have to set pizel format to 32bit or 16bit manually.
+2. a tox version. You can download from a release page.
 
 ![](https://github.com/yumataesu/EeveeBloomTOP/blob/main/readme/para.png)
